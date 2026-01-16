@@ -1,7 +1,6 @@
 [![MasterHead](https://pbs.twimg.com/media/D-jnUF5UIAEA6Cl?format=jpg&name=large)](https://www.linkedin.com/in/nayanpriyaa-a22009239/)
 
 <h1 align="center">Hi 👋, I'm Nayanpriya</h1>
-<h3 align="center">A Machine Learning Enthusiast from India</h3>
 <p align="center">
   <img src="https://i.pinimg.com/originals/19/6e/35/196e352c0dc1632a33b79c637c54dcbe.gif" style="max-width:100%; height:auto;" />
 </p>

@@ -1,15 +1,9 @@
 # 💫 Hi, I am Nayanpriya!
 🔭 I’m currently working on<br> designing and training Machine Learning and Deep Learning models, focusing on data quality, model performance, and evaluation.<br><br>
-
 👯 I’m looking to collaborate on< br> Machine Learning / Deep Learning projects, research initiatives, and internship opportunities.<br><br>
-
 🤝 I’m looking for help with <br> Advanced neural network concepts, improving model generalization, and handling real-world datasets.<br><br>
-
 🌱 I’m currently learning<br> deep Learning with PyTorch, CNNs, basic NLP concepts, and the math behind ML models.<br><br>
-
 🎓<br>Computer Science Engineering student at Manipal University Jaipur.<br><br>
-
-
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nayanpriya .) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nayan.priya2308@gmail.com) 

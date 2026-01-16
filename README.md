@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapersafari.com/aesthetic-youtube-banner-wallpapers/)](https://www.linkedin.com/in/nayanpriyaa-a22009239/)
+[![MasterHead](https://pbs.twimg.com/media/D-jnUF5UIAEA6Cl?format=jpg&name=large)](https://www.linkedin.com/in/nayanpriyaa-a22009239/)
 <h1 align="center">Hi 👋, I'm Nayanpriya</h1>
 <h3 align="center">A Machine Learning enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/19/6e/35/196e352c0dc1632a33b79c637c54dcbe.gif">
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nayanpriyaa ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayanpriyaa ." height="30" width="40" /></a>
+<a href="http://linkedin.com/in/nayanpriyaa-a22009239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayanpriyaa ." height="30" width="40" /></a>
 <a href="https://www.leetcode.com/slyisoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="slyisoul" height="30" width="40" /></a>
 </p>
 

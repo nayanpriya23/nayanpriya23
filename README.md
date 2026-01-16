@@ -38,16 +38,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanpriya23&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanpriya23&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nayanpriya23&theme=radical" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanpriya23&" alt="nayanpriya23" /></p>

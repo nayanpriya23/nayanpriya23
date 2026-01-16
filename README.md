@@ -1,7 +1,7 @@
 [![MasterHead](https://wallpapersafari.com/aesthetic-youtube-banner-wallpapers/)](https://www.linkedin.com/in/nayanpriyaa-a22009239/)
 <h1 align="center">Hi 👋, I'm Nayanpriya</h1>
 <h3 align="center">A Machine Learning enthusiast from India</h3>
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/19/6e/35/196e352c0dc1632a33b79c637c54dcbe.gif"
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/19/6e/35/196e352c0dc1632a33b79c637c54dcbe.gif">
 
 - 🔭 I’m currently learning about **deep Learning with PyTorch, CNNs, basic NLP concepts, and the math behind ML models.**
 
